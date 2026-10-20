@@ -1,0 +1,5 @@
+### Get user info from an id
+GET {{BASE_URL}}/auth/get/2
+# Replace the final int with the actual user id
+
+###

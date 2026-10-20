@@ -1,0 +1,8 @@
+### Get a users info from their email
+POST {{BASE_URL}}/auth/getuser
+Content-Type: application/json
+
+{
+    "email": "email"
+}
+###

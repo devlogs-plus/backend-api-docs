@@ -1,0 +1,4 @@
+### Logout current user
+POST {{BASE_URL}}/auth/logout
+
+###

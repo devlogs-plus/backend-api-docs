@@ -1,0 +1,9 @@
+### Request a code
+POST {{BASE_URL}}/auth/requestcode
+Content-Type: application/json
+
+{
+  "email": "email"
+}
+
+###

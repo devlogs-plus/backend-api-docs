@@ -1,0 +1,4 @@
+### Get current users data
+GET {{BASE_URL}}/auth/me
+
+###
