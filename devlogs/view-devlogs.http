@@ -1,0 +1,4 @@
+### View all devlogs for a specific project
+GET {{BASE_URL}}/projects/1/devlogs
+
+###

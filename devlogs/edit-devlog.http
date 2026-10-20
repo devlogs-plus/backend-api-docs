@@ -1,0 +1,9 @@
+### Edit a devlog
+PATCH {{BASE_URL}}/projects/1/devlogs/1
+Content-Type: application/json
+
+{
+  "title": "new title"
+}
+### You can use all fields from the create a devlog route here
+###

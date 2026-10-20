@@ -1,0 +1,4 @@
+### View a specific devlog
+GET {{BASE_URL}}/projects/1/devlogs/1
+
+###

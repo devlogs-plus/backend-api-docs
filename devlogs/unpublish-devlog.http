@@ -1,0 +1,4 @@
+### Unpublish a devlog
+POST {{BASE_URL}}/projects/1/devlogs/1/unpublish
+
+###

@@ -1,0 +1,11 @@
+### Create a new devlog for a project
+POST {{BASE_URL}}/projects/1/devlogs
+Content-Type: application/json
+
+{
+    "author_user_id": 1,
+    "title": "devlog!",
+    "body_markdown": "markdown here"
+}
+
+###
