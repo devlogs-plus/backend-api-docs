@@ -1,0 +1,4 @@
+### Delete a project
+DELETE {{BASE_URL}}/projects/2
+
+###

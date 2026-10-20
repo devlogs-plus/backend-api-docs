@@ -1,0 +1,4 @@
+### View a project by their id
+GET {{BASE_URL}}/projects/2
+
+###

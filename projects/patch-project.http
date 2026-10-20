@@ -1,0 +1,9 @@
+### Edit a project
+PATCH {{BASE_URL}}/projects/2
+Content-Type: application/json
+
+{
+  "name": "new name"
+}
+### You can use all the varibles used in create project here
+###

@@ -1,0 +1,4 @@
+### View all projects
+GET {{BASE_URL}}/projects
+
+###

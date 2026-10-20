@@ -1,0 +1,12 @@
+### Create a new project
+POST {{BASE_URL}}/projects
+Content-Type: application/json
+
+{
+  "name": "project name",
+  "short_description": "project description",
+  "demo_url": "example.com",
+  "repo_url": "github.com/example/example"
+}
+
+###

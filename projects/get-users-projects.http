@@ -1,0 +1,5 @@
+### Get a users projects
+GET {{BASE_URL}}/projects/user/1
+
+
+###
