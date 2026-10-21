@@ -1,0 +1,18 @@
+### Add a list of time tracking projects to a project
+PATCH {{BASE_URL}}/projects/1/time
+Content-Type: application/json
+
+{
+  "time_tracking_projects": [
+    {
+      "name": "wakatime project",
+      "provider": "wakatime"
+    },
+    {
+      "name": "hackatime project",
+      "provider": "hackatime"
+    }
+  ]
+}
+
+###

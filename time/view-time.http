@@ -1,0 +1,4 @@
+### View seconds spent on a certain project
+GET {{BASE_URL}}/projects/1/seconds-spent
+
+###

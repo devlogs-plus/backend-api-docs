@@ -1,0 +1,4 @@
+### Get time since the last devlog was published
+GET {{BASE_URL}}/projects/1/time-since-last-devlog
+### If a devlog is not yet published, it gets time since project was created
+###
